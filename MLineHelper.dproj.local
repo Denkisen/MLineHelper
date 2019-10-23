@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.321,=D:\Delphi\DB Test\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.236,=D:\Delphi\DB Test\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.721,D:\Delphi\DB Test\res\sectionpass.wav=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,D:\Delphi\MLineHelper\SettingsUI.dfm=D:\Delphi\MLineHelper\MessUI.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,D:\Delphi\MLineHelper\Main.pas=D:\Delphi\MultiHelper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.218,D:\Delphi\MLineHelper\MLineHelper.dproj=D:\Delphi\MultiHelper\MLineHelper.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.029,D:\Delphi\MLineHelper\MLineRadioSetUI.dfm=D:\Delphi\MLineHelper\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.758,D:\Delphi\MLineHelper\Clientcom.pas=D:\Delphi\MLineHelper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.087,=D:\Delphi\DB Test\res\oikkwn0101.ico</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,D:\Delphi\MLineHelper\FactSetUI.dfm=D:\Delphi\MultiHelper\Unit8.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.777,D:\Delphi\MLineHelper\SkFriendListUI.dfm=D:\Delphi\MultiHelper\Unit9.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.663,=D:\Delphi\DB Test\res\sectionpass.wav</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,D:\Delphi\MLineHelper\FactSetUI.pas=D:\Delphi\MultiHelper\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.318,D:\Delphi\MLineHelper\ComHelpUI.dfm=D:\Delphi\MultiHelper\Unit6.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.376,=D:\Delphi\MultiHelper\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.313,D:\Delphi\MLineHelper\Unit1.pas=D:\Delphi\MLineHelper\Loader.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.308,=D:\Delphi\MLineHelper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.217,=D:\Delphi\MLineHelper\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.215,C:\Users\Marek\Documents\Embarcadero\Studio\16.0\Imports\MLineRadio_TLB.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.673,C:\Users\Marek\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Delphi\DB Test\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.224,D:\Delphi\MultiHelper\MLineHelper.dproj=D:\Delphi\MultiHelper\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.792,=C:\Users\Marek\Documents\Embarcadero\Studio\16.0\Imports\MLineRadio_TLB.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.540,C:\Users\Marek\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Delphi\DB Test\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,D:\Delphi\MLineHelper\SkypeSetUI.pas=D:\Delphi\MultiHelper\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.029,D:\Delphi\MLineHelper\MLineRadioSetUI.pas=D:\Delphi\MLineHelper\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.850,=C:\Users\Marek\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.777,D:\Delphi\MLineHelper\SkFriendListUI.pas=D:\Delphi\MultiHelper\Unit9.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.047,=D:\Delphi\DB Test\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.141,=C:\Users\Marek\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,D:\Delphi\MLineHelper\SkypeSetUI.dfm=D:\Delphi\MultiHelper\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.011,=D:\Delphi\MultiHelper\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.875,D:\Delphi\MLineHelper\WellcMessUI.dfm=D:\Delphi\MultiHelper\Unit7.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.652,=D:\Delphi\DB Test\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.116,D:\Delphi\MLineHelper\MessUI.dfm=D:\Delphi\MultiHelper\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.643,=D:\Delphi\MLineHelper\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.592,=D:\Delphi\DB Test\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.845,D:\Delphi\MLineHelper\Unit10.pas=D:\Delphi\MLineHelper\MConsole.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,D:\Delphi\MLineHelper\SettingsUI.pas=D:\Delphi\MLineHelper\MessUI.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.268,=D:\Delphi\DB Test\res\Chandef.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.263,=D:\Delphi\MLineHelper\Unit10.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.584,D:\Delphi\MLineHelper\WellcMessSetUI.pas=D:\Delphi\MLineHelper\WellcMessUI.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.832,=D:\Delphi\DB Test\res\comboburst-10.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.087,D:\Delphi\DB Test\res\comboburst-10.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.969,D:\Delphi\MLineHelper\MessUI.dfm=D:\Delphi\MultiHelper\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.845,D:\Delphi\MLineHelper\Unit10.dfm=D:\Delphi\MLineHelper\MConsole.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.888,D:\Delphi\MLineHelper\Main.dfm=D:\Delphi\MultiHelper\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.875,D:\Delphi\MLineHelper\WellcMessUI.pas=D:\Delphi\MultiHelper\Unit7.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.540,C:\Users\Marek\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Delphi\DB Test\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.322,=D:\Delphi\DB Test\res\Chandef.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.182,D:\Delphi\MLineHelper\res\Chandef.png=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.262,=D:\Delphi\MLineHelper\res\Chandef.png</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.201,=D:\Delphi\DB Test\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.713,=D:\Delphi\DB Test\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.318,D:\Delphi\MLineHelper\ComHelpUI.pas=D:\Delphi\MultiHelper\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.635,=D:\Delphi\MultiHelper\Unit9.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.584,D:\Delphi\MLineHelper\WellcMessSetUI.dfm=D:\Delphi\MLineHelper\WellcMessUI.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.969,D:\Delphi\MLineHelper\MessUI.pas=D:\Delphi\MultiHelper\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.116,D:\Delphi\MLineHelper\MessUI.pas=D:\Delphi\MultiHelper\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

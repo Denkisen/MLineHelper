@@ -1,0 +1,8 @@
+Chan_Mess1_wav WAVE ChanMess.wav 
+Kun_Mess1_wav WAVE KunMess.wav
+Chan_Wel_wav WAVE welcome.wav
+Chan_Fact_wav WAVE FactChan.wav
+Chan_Error_wav WAVE ErrorChan.wav
+no_sound_wav WAVE empty.wav
+Chan_2 RCDATA Chandef.png
+Kun_1 RCDATA 5fc9e2c6832aa141.png
